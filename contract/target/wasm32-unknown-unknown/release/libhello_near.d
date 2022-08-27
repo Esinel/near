@@ -1,0 +1,1 @@
+/Users/trinitydesign/hello-near/contract/target/wasm32-unknown-unknown/release/libhello_near.rlib: /Users/trinitydesign/hello-near/contract/src/lib.rs /Users/trinitydesign/hello-near/contract/src/views.rs
